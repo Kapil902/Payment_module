@@ -1,0 +1,99 @@
+<div class=e123_2>
+  <div class=e254_134><span class="e123_4">Home</span><span class="e123_5">About us</span><span
+      class="e123_6">Product</span><span class="e123_7">Support</span><span class="e123_8">Contact</span></div>
+  <div class="e123_19"></div>
+  <div class="e123_18"></div><span class="e123_20">Hello!!</span>
+  <div class="e123_21"></div>
+  <div class="e123_76"></div>
+  <div class="e123_24"></div>
+  <div class="e123_57"></div><span class="e123_25">My Cart</span>
+  <div class=e123_26>
+    <div class="e123_28"></div>
+  </div>
+  <div class="e123_30"></div>
+  <div class="e123_31"></div>
+  <div class="e123_32"></div>
+  <span class="e123_40">COPYRIGHT © 2023 OPEL LED</span>
+  <div class="e123_39"></div>
+  <div class="e123_33"></div><span class="e123_34">c</span><span class="e123_35">Follow us on</span>
+  <div class="e123_36"></div>
+  <div class="e123_37"></div>
+  <div class="e123_38"></div>
+  <div class="e124_99"></div>
+  
+  <div class="e124_100"></div>
+  
+  <div class="e124_101"></div>
+  <span class="e124_102">COPYRIGHT 2023 OPEL LED</span>
+  <div class="e124_129"></div>
+  <div class="e124_103"></div>
+  <span class="e124_106">Follow us on</span>
+  <div class="e124_107"></div>
+  <div class="e124_108"></div>
+  <div class="e124_109"></div><span >Summary</span><span class="e123_42">Summary</span>
+  <span class="e123_44">Estimate shipping and tax</span>
+
+
+  <div  *ngFor="let c of cart;let i=index">
+    <span *ngIf="i==0" class="e123_71">{{c.product.description}}</span>
+    </div>
+
+    <span class="e123_54">Order Total</span>
+
+  <div class=e123_50>
+  <span class="e123_49">Subtotal</span>
+  </div>
+
+  <div  *ngFor="let c of cart">
+    <span class="e123_60">Rs  {{ calculateTotalAmount() }}</span>
+    </div>
+
+  <span class="e123_61">Rs 000</span>
+  <span class="e123_62">Rs  {{ calculateTotalAmount() }}</span>
+
+  <div class=e123_51><span class="e123_52">Tax</span></div>
+  <div class="e123_43"></div>
+  <div class="e123_45"></div>
+  <div class="e123_53"></div>
+    
+  <span class="e123_58" >
+    <div (click)="pay()">
+    Proceed to Checkout
+  </div>
+  </span>
+  
+
+  <div class="e123_64"></div> 
+  <div *ngFor="let c of cart;let i=index"> 
+  <img *ngIf="i==1"  src="{{c.product.img_url_1}}" class="img_url_1">
+  </div>
+  <div class="e123_65"></div>
+  <div *ngFor="let c of cart;let i=index"> 
+    <img *ngIf="i==1"  src="{{c.product.img_url_2}}" class="img_url_2">
+    </div>
+  <div class="e123_73"></div>
+  <div  *ngFor="let c of cart;let i=index">
+    <span *ngIf="i==1" class="e123_74">{{c.product.description}}</span>
+    </div>  
+  <div class="e123_75"></div><span class="e123_77">Items</span>
+  <div class="e123_78"></div>
+  <div class="e123_80"></div>
+  <div class="e124_94"></div>
+  <span class="e124_82">+</span>
+  <span class="e124_83">-</span>
+  <span class="e124_84">1</span>
+  <div  *ngFor="let c of cart;let i=index">
+  <span *ngIf="i==0" class="e124_86">Rs {{c.product.offer_price}}</span>
+  </div>
+  <div class="e124_87"></div>
+  <div class="e124_88"></div>
+  <div class="e124_95"></div>
+  <div class="e124_81"></div>
+  <span class="e124_89">+</span>
+  <span class="e124_98">-</span>
+  <span class="e124_90">1</span>
+  <div  *ngFor="let c of cart;let i=index">
+    <span *ngIf="i==1" class="e124_91">Rs {{c.product.offer_price}}</span>
+    </div>
+  <div class="e163_3"></div>
+</div>

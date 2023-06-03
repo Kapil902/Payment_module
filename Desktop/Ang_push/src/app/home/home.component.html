@@ -1,0 +1,116 @@
+<div class=e1_4>
+    <div class=e3_3>
+
+        <div class="e1_26">
+            <!-- <ngx-slick-carousel class="carousel" #slickModal="slick-carousel" [config]="slideConfig1">
+                <div ngxSlickItem *ngFor="let image of images " class="slide">
+                    <img src="{{ image.img }}" class="sliderr">
+                </div>
+            </ngx-slick-carousel> -->
+        </div>
+        <span class="e1_27">Deal of the Day </span>
+        <div *ngFor="let c of deal_of_day">
+            <div class="parent_block">
+                <div class="e1_29"></div>
+                <div class="e1_30">
+
+                    <div *ngFor="let c of deal_of_day" class="deal">
+                        <div>
+                            <div class="row">
+                                <div class="col title">{{c.title}}</div>
+
+                                <div class="col">
+                                    <div class="img-container">
+                                        <img [style.border-style]="'solid'" [style.color]="'darkgray'"
+                                            src="{{c.img_url_1}}" class="img">
+                                        <div class="overlay-text" (click)="direct_to_single(c.id)">Description.......</div>
+                                    </div>
+                                </div>
+                                <div class="col description"> {{c.description}}</div>
+                                <div class="xyz">
+                                    <div class="col actual_price">RS {{c.actual_price}}</div>
+                                    <div class="col offer_price">RS {{c.offer_price}}</div>
+                                </div>
+                                <button (click)="direct_to_single(c.id)">Order Now</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class=e3_4>
+        <div class="e1_96"></div>
+        <div class="e1_97"></div>
+        <div class="e1_98"></div><span class="e1_99">Write to us</span><span class="e1_100">Service -
+            service@opel.co.in</span><span class="e1_101">Support - support@opel.co.in</span>
+        <div class="e1_102"></div><span class="e1_103">1800-157-4545
+            Timings: 10:00 a.m till 7:00 p.m IST (Mon-Sat)</span><span class="e1_104">Customer Care</span>
+    </div>
+    <div class=e3_6>
+        <div class="e1_85"></div><span class="e1_86">COPYRIGHT © 2023 OPEL LED</span> <span class="e1_90">Follow us
+            on</span>
+        <div class="e1_92"></div>
+        <div class="e1_93"></div>
+        <div class="e1_94"></div>
+        <div class="e1_95"></div>
+        <div class="e1_105"></div>
+        <div class="e1_106"></div>
+        <span class="e1_107">As a pioneer in LED revolution in India, we at Opel were
+            always
+            keen to create a channel exclusive for our LED products. This wish is now a reality. We have created a
+            dedicated spaces where our entire LED range including popular bestsellers, specialty products and recent
+            innovations will be displayed in all glory. Let us join together to experience the future of
+            light.</span>
+            <span class="e1_108">OPEL LED</span>
+            <span class="e1_109">BE BOLD | BE BRIGHT</span>
+    </div>
+    <div class=e116_4>
+        <div class=e116_3>
+            <div class=e3_2>
+                <div class="e1_5"></div>
+                <div class="e1_6">
+                    <div>
+                        <div class="row">
+
+                        </div>
+                    </div>
+                    <hr style="background-color:black" />
+                    <div class="row">
+                        <ngx-slick-carousel class="carousel" #slickModal="slick-carousel" [config]="slideConfig">
+                            <div ngxSlickItem *ngFor="let image of slider " class="slide">
+                                <img src="{{ image.imgUrl }}" class="sliderr">
+                            </div>
+                        </ngx-slick-carousel>
+                    </div>
+                </div>
+                <div class="e1_7"></div>
+                <div class="e1_8"></div>
+                <div class=e1_9>
+                    <div class="e1_10">
+                        <div (click)="direct_to_login()" class="text">Login</div>
+                    </div>
+                </div>
+                <div class=e1_12>
+                    <div class="e1_13"></div>
+                    <div class="e1_14"></div><span class="e1_15">Cart</span>
+                </div>
+                <div class=e1_16>
+                    <div class="e1_17"></div>
+                    <div class="e1_18"></div>
+                    <div class="e1_19"></div>
+                </div><span class="e1_20">Sale Upto 50% off</span>
+                <span class="e1_21" (click)="direct_to_aboutus()">About us</span>
+                <span class="e1_22" (click)="direct_to_home()">Home</span>
+                <span class="e1_23" (click)="direct_to_product()">Product</span>
+                <span class="e1_24" (click)="direct_to_contact()">Contact</span>
+                <span class="e1_25" (click)="direct_to_support()">Support</span>
+                <div class="e1_89"></div>
+                <div class="e1_110"></div>
+                <div class="e1_111"></div>
+            </div>
+        </div>
+    </div>
+</div>

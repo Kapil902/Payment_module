@@ -1,0 +1,55 @@
+<div class=e102_2>
+    <div class="e102_3"></div>
+    <div class=e102_4>
+        <div class="e102_5"></div>
+        <div class="e102_6"></div>
+        <div class="e102_7"></div>
+        <div class="e102_8"></div>
+        <div class="e102_9"></div><span class="e102_10">Sign Up</span>
+        <form [formGroup]="signupForm">
+            <div class="e102_11"></div>
+            <span>
+                <div class="e102_12"></div><span class="e102_13">
+                    <div>
+                        <label>Name* </label>
+                        <input type="text" formControlName="name">
+                    </div>
+                    <!-- <div>
+            <p class="myfield" *ngIf="(signupForm.controls['name'].touched
+            || signupForm.controls['name'].dirty)
+            && signupForm.controls['name'].invalid">name atleast should contain 5 character</p>
+            </div> -->
+                </span>
+                <span class="e102_14">
+                    <div>
+                        <label>Email* </label>
+                        <input type="email" formControlName="email">
+                    </div>
+                </span>
+                <div class="e102_15"></div>
+                <div class="e102_16"></div><span class="e102_17">
+                    <div>
+                        <label>Mobile</label>
+                        <input type="text" formControlName="mobile">
+                    </div>
+                </span>
+                <span class="e102_18">
+                    <div>
+                        <label>Password* </label>
+                        <input type="password" formControlName="password">
+                    </div>
+                </span>
+                <div class="e102_19"></div><span class="e102_20">
+                    <div>
+                        <label>Repeat Pass* </label>
+                        <input type="password" formControlName="">
+                    </div>
+                </span>
+                <div class="e102_21"></div>
+            </span><button (click)="signup()" class="e102_21" routerLink="signin">SignUp</button>
+
+            <div class="e102_23"></div>
+            <span class="e102_24"><button routerLink="/signin" target="_blank">Log In</button>
+            </span><span class="e102_25">have an account ?
+            </span><span class="e102_26">OR</span>
+            <div class="e102_27"></div>

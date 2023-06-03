@@ -1,0 +1,35 @@
+<div class=e13_2>
+  <div class=e13_3>
+    <div class="e13_4"></div>
+    <div class="e13_5"></div>
+    <div class="e13_6"></div>
+    <div class="e13_7"></div>
+    <div class="e13_8"></div>
+    <div class="e13_9"></div>
+    <div class="e13_10"></div><span class="e13_11">Sign In</span><span class="e13_12">Register Here !</span>
+    <div class="e13_13"></div>
+    <div class="e13_14"></div>
+    <form [formGroup]="signinForm">
+      <span class="e13_15">
+        <div>
+          <label>Email* </label>
+          <input type="email" formControlName="email">
+        </div>
+      </span>
+      <span class="e13_16">
+        <div>
+          <label>Password* </label>
+          <input type="password" formControlName="password">
+        </div>
+      </span>
+      <div class="e13_17"></div><span> <button (click)="login()" class="e13_18">Login</button></span>
+    </form>
+    <div class="e13_19"></div>
+    <span><button (click)="redirect_to_signup() " class="e13_20">Create New Account</button></span>
+    <span class="e13_21">Forget your password?</span>
+    <span class="e13_22">Don’t have an account ? </span>
+    <span class="e13_23">OR</span>
+  </div>
+  <div class="e13_24"></div>
+  <div class="e13_25"></div>
+</div>

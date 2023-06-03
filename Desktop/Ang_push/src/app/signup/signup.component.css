@@ -1,0 +1,657 @@
+.myfield{
+    color: red;
+}
+.e102_2 { 
+	overflow:hidden;
+}
+.e102_2 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:1440px;
+	height:1176px;
+	position:absolute;
+}
+.e102_3 { 
+	width:323px;
+	height:206px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/opel_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e102_4 { 
+	width:648px;
+	height:969px;
+	position:absolute;
+	left:396px;
+	top:104px;
+}
+.e102_5 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:648px;
+	height:969px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:47px;
+	border-top-right-radius:47px;
+	border-bottom-left-radius:47px;
+	border-bottom-right-radius:47px;
+}
+.e102_5 { 
+	border:1px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_6 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:606px;
+	height:157px;
+	position:absolute;
+	left:20px;
+	top:106px;
+	border-radius:Symbol(figmamixed)px;
+}
+.e102_6 { 
+	border:1px solid rgba(251.81250303983688, 251.81250303983688, 251.81250303983688, 1);
+}
+.e102_7 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	transform: rotate(-0.09090982075280375deg);
+	background-color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+	width:582.8117065429688px;
+	height:751.0744018554688px;
+	position:absolute;
+	left:21px;
+	top:171.92474365234375px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.e102_7 { 
+	border:12px solid rgba(255, 246.96267127990723, 237.36253201961517, 1);
+}
+.e102_8 { 
+	width:34.78886413574219px;
+	height:45px;
+	position:absolute;
+	left:306px;
+	top:116px;
+	background-image:url(images/refer.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e102_9 { 
+	width:50px;
+	height:50px;
+	position:absolute;
+	left:40px;
+	top:111px;
+	background-image:url(images/back__1__2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e102_10 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(217.8125050663948, 173.96684020757675, 18.514080941677094, 1);
+	width:328px;
+	height:81px;
+	position:absolute;
+	left:257px;
+	top:21px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e102_11 { 
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:477px;
+	height:54px;
+	position:absolute;
+	left:82px;
+	top:226px;
+	border-top-left-radius:22px;
+	border-top-right-radius:22px;
+	border-bottom-left-radius:22px;
+	border-bottom-right-radius:22px;
+}
+.e102_11 { 
+	border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_12 { 
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:477px;
+	height:54px;
+	position:absolute;
+	left:82px;
+	top:323px;
+	border-top-left-radius:22px;
+	border-top-right-radius:22px;
+	border-bottom-left-radius:22px;
+	border-bottom-right-radius:22px;
+}
+.e102_12 { 
+	border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_13 { 
+	color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+	width:81px;
+	height:29px;
+	position:absolute;
+	left:98px;
+	top:239px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_14 { 
+	color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+	width:89px;
+	height:31px;
+	position:absolute;
+	left:98px;
+	top:332px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_15 { 
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:477px;
+	height:54px;
+	position:absolute;
+	left:85px;
+	top:520px;
+	border-top-left-radius:22px;
+	border-top-right-radius:22px;
+	border-bottom-left-radius:22px;
+	border-bottom-right-radius:22px;
+}
+.e102_15 { 
+	border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_16 { 
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:477px;
+	height:54px;
+	position:absolute;
+	left:85px;
+	top:427px;
+	border-top-left-radius:22px;
+	border-top-right-radius:22px;
+	border-bottom-left-radius:22px;
+	border-bottom-right-radius:22px;
+}
+.e102_16 { 
+	border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_17 { 
+	color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+	width:146.61021423339844px;
+	height:35px;
+	position:absolute;
+	left:98px;
+	top:440px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_18 { 
+	color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+	width:146.61021423339844px;
+	height:35px;
+	position:absolute;
+	left:98px;
+	top:537px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_19 { 
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:477px;
+	height:54px;
+	position:absolute;
+	left:82px;
+	top:616px;
+	border-top-left-radius:22px;
+	border-top-right-radius:22px;
+	border-bottom-left-radius:22px;
+	border-bottom-right-radius:22px;
+}
+.e102_19 { 
+	border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+}
+.e102_20 { 
+	color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+	width:235px;
+	height:35px;
+	position:absolute;
+	left:98px;
+	top:628px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_21 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:127.55916595458984px;
+	height:57px;
+	position:absolute;
+	left:255px;
+	top:700px;
+	border-radius:20px;
+}
+.e102_21 { 
+	border:2px solid rgba(221.00000202655792, 185.00000417232513, 142.00000673532486, 1);
+}
+.e102_22 { 
+	color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+	width:97px;
+	height:33px;
+	position:absolute;
+	left:275px;
+	top:712px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_23 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	width:118px;
+	height:57px;
+	position:absolute;
+	left:265px;
+	top:855px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.e102_23 { 
+	border:2px solid rgba(221.00000202655792, 185.00000417232513, 142.00000673532486, 1);
+}
+.e102_24 { 
+	color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+	width:75px;
+	height:32px;
+	position:absolute;
+	left:286px;
+	top:868px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e102_25 { 
+	color:rgba(123.0000002682209, 115.00000074505806, 115.00000074505806, 1);
+	width:148px;
+	height:24px;
+	position:absolute;
+	left:257px;
+	top:825px;
+	font-family:Inter;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e102_26 { 
+	color:rgba(0, 0, 0, 0.5);
+	width:47px;
+	height:37px;
+	position:absolute;
+	left:300px;
+	top:781px;
+	font-family:Irish Grover;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e102_27 { 
+	width: 119px;;
+	height:81px;
+	position:absolute;
+	left: 30px;;
+	top:9px;
+	background-image:url(images/opel_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+@media only screen and (max-width: 768px) {
+	.e102_2 { 
+		overflow:hidden;
+	}
+	.e102_2 { 
+		background-color:rgba(0, 0, 0, 1);
+		width:768px;
+		height:1322px;
+		position:absolute;
+	}
+	.e102_3 { 
+		width:323px;
+		height:206px;
+		position:absolute;
+		left:0px;
+		top:0px;
+		background-image:url(images/opel_3.png);
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
+	.e102_4 { 
+		width:604px;
+		height:969px;
+		position:absolute;
+		left:82px;
+		top:260px;
+	}
+	.e102_5 { 
+		background-color:rgba(0, 0, 0, 1);
+		width:604px;
+		height:969px;
+		position:absolute;
+		left:0px;
+		top:0px;
+		border-top-left-radius:47px;
+		border-top-right-radius:47px;
+		border-bottom-left-radius:47px;
+		border-bottom-right-radius:47px;
+	}
+	.e102_5 { 
+		border:1px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_6 { 
+		box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:564.8518676757812px;
+		height:157px;
+		position:absolute;
+		left:18.64197540283203px;
+		top:106px;
+		border-radius:Symbol(figmamixed)px;
+	}
+	.e102_6 { 
+		border:1px solid rgba(251.81250303983688, 251.81250303983688, 251.81250303983688, 1);
+	}
+	.e102_7 { 
+		box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+		transform: rotate(-0.09753237771173784deg);
+		background-color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+		width:543.2381591796875px;
+		height:751.0743408203125px;
+		position:absolute;
+		left:18.827159881591797px;
+		top:171.92474365234375px;
+		border-top-left-radius:20px;
+		border-top-right-radius:20px;
+		border-bottom-left-radius:20px;
+		border-bottom-right-radius:20px;
+	}
+	.e102_7 { 
+		border:12px solid rgba(255, 246.96267127990723, 237.36253201961517, 1);
+	}
+	.e102_8 { 
+		width:32.426658630371094px;
+		height:45px;
+		position:absolute;
+		left:285.22222900390625px;
+		top:116px;
+		background-image:url(images/refer.png);
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
+	.e102_9 { 
+		width:46.60493850708008px;
+		height:50px;
+		position:absolute;
+		left:37.28395080566406px;
+		top:111px;
+		background-image:url(images/back__1__2.png);
+		background-repeat:no-repeat;
+		background-size:cover;
+	}
+	.e102_10 { 
+		box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+		color:rgba(217.8125050663948, 173.96684020757675, 18.514080941677094, 1);
+		width:305.7283935546875px;
+		height:81px;
+		position:absolute;
+		left:239.54937744140625px;
+		top:21px;
+		font-family:Inter;
+		text-align:left;
+		font-size:36px;
+		letter-spacing:0;
+	}
+	.e102_11 { 
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:444.6111145019531px;
+		height:54px;
+		position:absolute;
+		left:76.43209838867188px;
+		top:226px;
+		border-top-left-radius:22px;
+		border-top-right-radius:22px;
+		border-bottom-left-radius:22px;
+		border-bottom-right-radius:22px;
+	}
+	.e102_11 { 
+		border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_12 { 
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:444.6111145019531px;
+		height:54px;
+		position:absolute;
+		left:76.43209838867188px;
+		top:323px;
+		border-top-left-radius:22px;
+		border-top-right-radius:22px;
+		border-bottom-left-radius:22px;
+		border-bottom-right-radius:22px;
+	}
+	.e102_12 { 
+		border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_13 { 
+		color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+		width:75.5px;
+		height:29px;
+		position:absolute;
+		left:91.3456802368164px;
+		top:239px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_14 { 
+		color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+		width:82.956787109375px;
+		height:31px;
+		position:absolute;
+		left:91.3456802368164px;
+		top:332px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_15 { 
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:444.6111145019531px;
+		height:54px;
+		position:absolute;
+		left:79.2283935546875px;
+		top:520px;
+		border-top-left-radius:22px;
+		border-top-right-radius:22px;
+		border-bottom-left-radius:22px;
+		border-bottom-right-radius:22px;
+	}
+	.e102_15 { 
+		border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_16 { 
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:444.6111145019531px;
+		height:54px;
+		position:absolute;
+		left:79.2283935546875px;
+		top:427px;
+		border-top-left-radius:22px;
+		border-top-right-radius:22px;
+		border-bottom-left-radius:22px;
+		border-bottom-right-radius:22px;
+	}
+	.e102_16 { 
+		border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_17 { 
+		color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+		width:136.6551971435547px;
+		height:35px;
+		position:absolute;
+		left:91.3456802368164px;
+		top:440px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_18 { 
+		color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+		width:136.6551971435547px;
+		height:35px;
+		position:absolute;
+		left:91.3456802368164px;
+		top:537px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_19 { 
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:444.6111145019531px;
+		height:54px;
+		position:absolute;
+		left:76.43209838867188px;
+		top:616px;
+		border-top-left-radius:22px;
+		border-top-right-radius:22px;
+		border-bottom-left-radius:22px;
+		border-bottom-right-radius:22px;
+	}
+	.e102_19 { 
+		border:2px solid rgba(255, 247.00000047683716, 237.0000010728836, 1);
+	}
+	.e102_20 { 
+		color:rgba(14.875000063329935, 14.589897561818361, 14.589897561818361, 0.30000001192092896);
+		width:219.043212890625px;
+		height:35px;
+		position:absolute;
+		left:91.3456802368164px;
+		top:628px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_21 { 
+		box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:118.89774322509766px;
+		height:57px;
+		position:absolute;
+		left:237.6851806640625px;
+		top:700px;
+		border-radius:20px;
+	}
+	.e102_21 { 
+		border:2px solid rgba(221.00000202655792, 185.00000417232513, 142.00000673532486, 1);
+	}
+	.e102_22 { 
+		color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+		width:139px;
+		height:33px;
+		position:absolute;
+		left:253px;
+		top:712px;
+		font-family:Inter;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_23 { 
+		box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+		background-color:rgba(255, 247.00000047683716, 237.0000010728836, 1);
+		width:109.98765563964844px;
+		height:57px;
+		position:absolute;
+		left:247.0061798095703px;
+		top:855px;
+		border-top-left-radius:20px;
+		border-top-right-radius:20px;
+		border-bottom-left-radius:20px;
+		border-bottom-right-radius:20px;
+	}
+	.e102_23 { 
+		border:2px solid rgba(221.00000202655792, 185.00000417232513, 142.00000673532486, 1);
+	}
+	.e102_24 { 
+		color:rgba(217.0000022649765, 168.0000051856041, 91.00000217556953, 1);
+		width:90px;
+		height:32px;
+		position:absolute;
+		left:267px;
+		top:868px;
+		font-family:Inter;
+		text-align:left;
+		font-size:24px;
+		letter-spacing:0;
+	}
+	.e102_25 { 
+		color:rgba(123.0000002682209, 115.00000074505806, 115.00000074505806, 1);
+		width:178px;
+		height:24px;
+		position:absolute;
+		left:240px;
+		top:825px;
+		font-family:Inter;
+		text-align:left;
+		font-size:16px;
+		letter-spacing:0;
+	}
+	.e102_26 { 
+		color:rgba(0, 0, 0, 0.5);
+		width:43.80864334106445px;
+		height:37px;
+		position:absolute;
+		left:279.629638671875px;
+		top:781px;
+		font-family:Irish Grover;
+		text-align:left;
+		font-size:32px;
+		letter-spacing:0;
+	}
+	.e102_27 { 
+		width:109px;
+		height:81px;
+		position:absolute;
+		left:94px;
+		top:275px;
+		background-image:url(images/opel_7.png);
+		background-repeat:no-repeat;
+		background-size:cover;
+	}	
+}

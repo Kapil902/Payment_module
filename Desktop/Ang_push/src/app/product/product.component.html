@@ -1,0 +1,59 @@
+<div class=e1_112>
+  <div class="e1_113"></div>
+  <span class="e1_114" (click)="direct_to_home()">Home</span>
+  <span class="e1_116" >Product</span>
+  <span class="e1_115" (click)="direct_to_aboutus()">About us</span>  
+  <span class="e1_117" (click)="direct_to_support()">Support</span>
+  <span class="e1_118" (click)="direct_to_contact()"> Contact</span>
+  <div class=e1_119>
+    <div class="e1_121"></div>
+    <span class="e1_122">Login</span>
+  </div>
+  <div class=e1_123>
+    <div class="e1_124"></div>
+    <div class="e1_125"></div><span class="e1_126">Cart</span>
+  </div>
+  <div class="e1_127"></div>
+  <div class="e1_128"></div>
+  <div class="e1_129"></div>
+  <div class="e1_130"></div>
+  <!-- <div class="e1_131"></div> -->
+
+  <!-- <tr *ngFor="let c of product"> -->
+  <!-- <img src="{{c.img_url_4}}" class="e1_132">
+    <span class="e1_133">₹{{c.actual_price}}||₹ {{c.offer_price}}||{{c.offer_percentage}}% Off</span>
+    <span class="e1_134">
+      <td> {{c.description | uppercase}}</td> -->
+  <!-- </span> -->
+
+  <div *ngFor="let c of product" class="deal">
+    <div>
+      <div class="row">
+        <div class="col title">{{c.title}}</div>
+        <div class="col"> <img src="{{c.img_url_1}}" class="img"></div>
+        <div class="col actual_price">{{c.actual_price}}</div>
+        <div class="col offer_price">{{c.offer_price}}</div>
+        <div class="col description"> {{c.description}}</div>
+        <button (click)="direct_to_single(c.id)">Order Now</button>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="row">
+    <div *ngFor="let c of product" class="deal">
+      <div class="col">{{c.title}}</div>
+      <div class="col">{{c.actual_price}}</div>
+      <div class="col">{{c.offer_price}}</div>
+      <div class="col">{{c.description}}</div>
+      <div class="col"> <img src="{{c.img_url_1}}" class="img"></div>
+      <button (click)="direct_to_single()"> Order Now</button>
+    </div>
+  </div> -->
+  <!-- </div> -->
+
+  <!-- <div class="e1_224"></div> -->
+  <!-- <span class="e1_225"> -->
+  <!-- Add To Cart -->
+  <!-- </span> -->
+  <!-- </tr> -->
+  <!-- </div> -->
+  <!-- </div> -->
